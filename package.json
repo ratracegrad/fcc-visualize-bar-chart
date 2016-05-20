@@ -1,0 +1,13 @@
+{
+  "name": "fcc-visualize-bar-chart",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Jennifer Bland",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "~4.13.1"
+  }
+}
