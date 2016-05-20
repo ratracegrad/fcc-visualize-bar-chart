@@ -27,6 +27,8 @@ build/Release
 node_modules
 .idea
 fcc-visualize-bar-chart.iml
+public/javascripts/d3
+public/javascripts/jquery
 
 # Optional npm cache directory
 .npm
