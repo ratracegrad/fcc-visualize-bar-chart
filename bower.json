@@ -1,0 +1,23 @@
+{
+  "name": "fcc-visualize-bar-chart",
+  "description": "free code camp visualize bar chart",
+  "main": "app.js",
+  "authors": [
+    "Jennifer Bland"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/javascripts",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^3.5.16",
+    "jquery": "^2.2.3"
+  }
+}
