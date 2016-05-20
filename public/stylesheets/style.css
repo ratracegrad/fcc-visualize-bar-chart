@@ -1,14 +1,11 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: blue;
 }
 
 .bar {
   fill: steelblue;
 }
-
-
 
 .axis {
   font: 10px sans-serif;
@@ -22,5 +19,5 @@ body {
 }
 
 .x.axis path {
-  /*display: none;*/
+  display: none;
 }
