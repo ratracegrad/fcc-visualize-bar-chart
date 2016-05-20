@@ -4,10 +4,12 @@
   "private": true,
   "author": "Jennifer Bland",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "postinstall": "bower cache clean && bower install"
   },
   "dependencies": {
     "body-parser": "^1.15.0",
+    "bower": "^1.7.9",
     "express": "~4.13.1"
   }
 }
